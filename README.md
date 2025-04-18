@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Shubham Meher
 
-<!--
-**IMshub10/IMshub10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Android developer turning ideas into pixel-perfect apps.  
+Currently building **NotifAI** – a smart SMS classification app powered by an on-device ML model.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 NotifAI – Featured Project
+📱 Classifies SMS into Transaction, OTP, Scam, Promotion, and more  
+🤖 Offline DistilBERT model (~50k SMS trained)  
+🔐 AES-128 encryption | User-controlled privacy  
+🧠 Smart notifications based on category scoring
+
+→ [Check it out on GitHub](https://github.com/shubhammeher/NotifAI)
+
+---
+
+### 🛠️ Tech Stack
+- Kotlin • Java • Room • Paging • Firebase
+- TFLite / ONNX • BERT • Spring Boot
+
+---
+
+### 📚 Currently
+- Polishing NotifAI UI & classification logic
+- Exploring scalable backend systems
+
+---
+
+### 📫 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/shubhammeher)
