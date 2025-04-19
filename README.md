@@ -17,7 +17,8 @@ Currently building **NotifAI** – a smart SMS classification app powered by an 
 
 ### 🛠️ Tech Stack
 - Kotlin • Java • Firebase
-- TFLite / ONNX • BERT • Spring Boot • GO
+- TFLite / ONNX • BERT 
+- Spring Boot • GO
 
 ---
 
