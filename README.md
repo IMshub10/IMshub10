@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shubham Meher
 
-A passionate Android developer turning ideas into pixel-perfect apps.  
+A passionate Software Engineer turning ideas into pixel-perfect apps.  
 Currently building **NotifAI** – a smart SMS classification app powered by an on-device ML model.
 
 ---
