@@ -11,7 +11,8 @@ Currently building **NotifAI** – a smart SMS classification app powered by an 
 🔐 AES-128 encryption | User-controlled privacy  
 🧠 Smart notifications based on category scoring
 
-→ [Check it out on GitHub](https://github.com/shubhammeher/NotifAI)
+→ [Android](https://github.com/IMshub10/NotifAi)
+→ [ML](https://github.com/IMshub10/NotifAiMl)
 
 ---
 
