@@ -12,6 +12,7 @@ Currently building **NotifAI** – a smart SMS classification app powered by an 
 🧠 Smart notifications based on category scoring
 
 → [Android](https://github.com/IMshub10/NotifAi)
+
 → [ML](https://github.com/IMshub10/NotifAiMl)
 
 ---
